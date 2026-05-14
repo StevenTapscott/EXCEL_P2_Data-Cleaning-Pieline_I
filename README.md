@@ -108,7 +108,9 @@ Payments
 | Order_Items → Products | product_id |
 | Orders → Payments | order_id |
 
----
+```markdown
+...
+```
 
 ## Final Analytical Table
 
