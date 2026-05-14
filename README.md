@@ -183,3 +183,19 @@ This project demonstrates:
 - Analytical modelling concepts
 
 ---
+
+## Future Improvements
+
+Potential future enhancements include:
+
+- Power BI integration
+- SQL database implementation
+- Automated refresh workflows
+- Dashboard layer for reporting and analytics
+- Advanced anomaly detection
+
+---
+
+## Contact
+
+If you would like to discuss this project or opportunities in data analytics, feel free to connect.
